@@ -1,4 +1,32 @@
-polar-night
-===========
+###Polar Night
 
-gtk3/unity theme
+_Any :penguin: should feel at home here in this Polar Night._
+
+![alt tag]()
+
+Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gnome 3.10**
+So - _no support for other DEs/WMs?_
+That's right - _do one thing, and do it well_ :p
+
+**Original theme & credit:** [Flatts](http://nale12.deviantart.com/#/art/Flatts-09022014-432924057?hf=1)/WM buttons [from here](http://vinceliuice.deviantart.com/#/art/Flattice-461445311?hf=1)
+
+######now, the mod
+
+- Obviously - colorscheme customizations to gtk2, gtk3, and Unity - it is now as dark
+- This theme contains a workaround to get rid of a bug that clashes with overlay scrollbars and draws black backgrounds in tabbed Nautilus and Gedit windows, and in some Ubuntu dialogues
+- Nautilus specific changes, to buttons linked buttons, Unity window decorations changes
+- The GTK2 is now a simple gtkrc - borderless input fields in Firefox, etc., from the original didn't quite do it for me
+
+######plus
+
+[A Firefox (30, 31) style]()
+
+![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/OVCepheiscrot.png)
+
+######otherwise
+
+The screenshot shows folder icons that are a colormod of Numix, and the indicator set from Faba
+
+The panel transparency is set to 70-ish via Unity Tweak Tool
+
+There will also be _Polar Day_. It's inevitable.
