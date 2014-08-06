@@ -1,8 +1,11 @@
-###Polar Night
+###Polar Night (_WIP_)
+
 
 _Any :penguin: should feel at home here in this Polar Night._
 
+
 ![alt tag](https://raw.githubusercontent.com/baurigae/polar-night/master/polarnight.png)
+
 
 Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gnome 3.10**
 So - _no support for other DEs/WMs?_
@@ -12,6 +15,7 @@ That's right - _do one thing, and do it well_ :p
 
 ######now, the mod
 
+
 - Obviously - colorscheme customizations to gtk2, gtk3, and Unity - it is now as dark
 - This theme contains a workaround to get rid of a bug that clashes with overlay scrollbars and draws black backgrounds in tabbed Nautilus and Gedit windows, and in some Ubuntu dialogues
 - Nautilus specific changes, to buttons linked buttons, Unity window decorations changes
@@ -19,11 +23,13 @@ That's right - _do one thing, and do it well_ :p
 
 ######plus
 
+
 [A Firefox (30, 31) style](https://github.com/baurigae/firefox-mods/blob/master/OVCephei.css)
 
 ![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/OVCepheiscrot.png)
 
 ######otherwise
+
 
 The screenshot shows folder icons that are a colormod of Numix, and the indicator set from Faba
 
