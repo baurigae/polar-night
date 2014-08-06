@@ -9,7 +9,9 @@ _Any :penguin: should feel at home here in this Polar Night._
 
 
 Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gnome 3.10**
+
 **Q**: _No support for other DEs/WMs?_
+
 **A**: _That's right - do one thing, and do it well_ :p
 
 **Original theme & credit:** [Flatts](http://nale12.deviantart.com/#/art/Flatts-09022014-432924057?hf=1)/WM buttons [from here](http://vinceliuice.deviantart.com/#/art/Flattice-461445311?hf=1)
