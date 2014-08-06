@@ -2,7 +2,7 @@
 
 _Any :penguin: should feel at home here in this Polar Night._
 
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/baurigae/polar-night/master/polarnight.png)
 
 Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gnome 3.10**
 So - _no support for other DEs/WMs?_
@@ -19,7 +19,7 @@ That's right - _do one thing, and do it well_ :p
 
 ######plus
 
-[A Firefox (30, 31) style]()
+[A Firefox (30, 31) style](https://github.com/baurigae/firefox-mods/blob/master/OVCephei.css)
 
 ![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/OVCepheiscrot.png)
 
