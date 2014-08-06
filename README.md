@@ -19,9 +19,9 @@ Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gn
 ######now, the mod
 
 
-- Obviously - colorscheme customizations to gtk2, gtk3, and Unity - it is now as dark
+- Obviously - colorscheme customizations to gtk2, gtk3, and Unity - it is now dark
 - This theme contains a workaround to get rid of a bug that clashes with overlay scrollbars and draws black backgrounds in tabbed Nautilus and Gedit windows, and in some Ubuntu dialogues
-- Nautilus specific changes, to buttons linked buttons, Unity window decorations changes
+- Nautilus specific changes, to buttons, linked buttons; Unity window decorations changes
 - The GTK2 is now a simple gtkrc - borderless input fields in Firefox, etc., from the original didn't quite do it for me
 
 ######plus
@@ -38,4 +38,4 @@ The screenshot shows folder icons that are a colormod of Numix, and the indicato
 
 The panel transparency is set to 70-ish via Unity Tweak Tool
 
-There will also be _Polar Day_. It's inevitable.
+There will also be _Polar Day_. It is inevitable.
