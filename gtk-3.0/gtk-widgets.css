@@ -1475,6 +1475,13 @@ GtkComboBox .separator {
 	background-color: transparent;
 }
 
+NautilusWindow .sidebar row:selected:backdrop {
+border-width: 0;
+    background-color: #4E585C;
+    background-image: none;
+    color: #fff;
+}
+
 /**************
  * spinbutton *
  **************/

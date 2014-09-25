@@ -587,37 +587,6 @@ widget_class "*ThunarLocationEntry*" style "murrine-entry"
 widget_class "*GtkFileChooserWidget.GtkFileChooserDefault.GtkVBox.GtkHPaned.GtkVBox.GtkScrolledWindow.GtkTreeView*" style "sidepane"
 widget_class "*GtkFileChooserWidget.GtkFileChooserDefault.GtkVBox.GtkHPaned.GtkVBox.GtkScrolledWindow.<GtkTreeView>.<GtkButton>" style "murrine-treeview-header"
 
-# Google Chrome/Chromium Styles (requires 9.0.597 or newer)
-
-style "chromium-toolbar-button" {
-	engine "murrine" {
-		roundness = 2
-		textstyle = 0
-	}
-}
-
-style "chrome-gtk-frame" {
-	ChromeGtkFrame::frame-color = @titlebar_bg_color
-	ChromeGtkFrame::inactive-frame-color = @titlebar_bg_color
-
-	ChromeGtkFrame::frame-gradient-size = 0
-	ChromeGtkFrame::frame-gradient-color = @titlebar_bg_color
-
-	ChromeGtkFrame::incognito-frame-color = @titlebar_bg_color
-	ChromeGtkFrame::incognito-inactive-frame-color = @titlebar_bg_color
-
-	ChromeGtkFrame::incognito-frame-gradient-size = 0
-	ChromeGtkFrame::incognito-frame-gradient-color = @titlebar_bg_color
-
-	ChromeGtkFrame::scrollbar-trough-color = @bg_color
-	ChromeGtkFrame::scrollbar-slider-normal-color =  mix (0.21, @fg_color, @bg_color)
-	ChromeGtkFrame::scrollbar-slider-prelight-color =  mix (0.31, @fg_color, @bg_color)
-}
-
-class "ChromeGtkFrame" style "chrome-gtk-frame"
-
-widget_class "*Chrom*Button*" style "chromium-toolbar-button"
-
 # General Styles
 
 class "GtkWidget" style "murrine-default"
