@@ -27,14 +27,14 @@ Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gn
 ######plus
 
 
-[A Firefox (30, 31) style](https://github.com/baurigae/firefox-mods/blob/master/OVCephei.css)
+[A Firefox (30, 31, 32) style](https://github.com/baurigae/firefox-mods/blob/master/OVCephei.css)
 
 ![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/OVCepheiscrot.png)
 
 ######otherwise
 
 
-The screenshot shows folder icons that are a colormod of Numix, and the indicator set from Faba
+The screenshot shows indicator icon set from Faba
 
 The panel transparency is set to 70-ish via Unity Tweak Tool
 
