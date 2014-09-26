@@ -34,7 +34,7 @@ Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gn
 ######otherwise
 
 
-The screenshot shows indicator icon set from Faba
+The screenshot shows app icons from [Flattr](https://github.com/NitruxSA/flattr-icons)
 
 The panel transparency is set to 70-ish via Unity Tweak Tool
 
