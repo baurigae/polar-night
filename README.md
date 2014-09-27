@@ -38,4 +38,4 @@ The screenshot shows app icons from [Flattr](https://github.com/NitruxSA/flattr-
 
 The panel transparency is set to 70-ish via Unity Tweak Tool
 
-There will also be _Polar Day_. It is inevitable.
+[Light version](https://github.com/baurigae/plesetsk)
