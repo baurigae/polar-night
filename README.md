@@ -4,8 +4,7 @@
 
 _Any :penguin: should feel at home here in this Polar Night._
 
-
-![alt tag](https://raw.githubusercontent.com/baurigae/polar-night/master/polarnight.png)
+![alt tag](https://cloud.githubusercontent.com/assets/5447269/10865557/039b610c-800f-11e5-8be4-893828c05bc8.png)
 
 
 Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gnome 3.10**
