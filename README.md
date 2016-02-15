@@ -13,7 +13,7 @@ Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gn
 
 **A**: _That's right - do one thing, and do it well_ :p
 
-**Original theme & credit:** [Flatts](http://nale12.deviantart.com/#/art/Flatts-09022014-432924057?hf=1)/WM buttons [from here](http://vinceliuice.deviantart.com/#/art/Flattice-461445311?hf=1)
+**Original theme & credit:** [Flatts](http://nale12.deviantart.com/art/Flatts-09022014-432924057)/WM buttons [from here](http://vinceliuice.deviantart.com/#/art/Flattice-461445311?hf=1)
 
 ######now, the mod
 
