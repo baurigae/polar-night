@@ -32,7 +32,4 @@ Well... not any, this theme is tailor-made for **Ubuntu 14.04 with Unity, and Gn
 
 ######otherwise
 
-
-The screenshot shows app icons from [Flattr](https://github.com/NitruxSA/flattr-icons)
-
 [Light version](https://github.com/baurigae/plesetsk)
